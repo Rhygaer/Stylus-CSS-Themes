@@ -18,9 +18,12 @@ CSS Themes for Various Websites for Stylus Extension
 **Note**
 from dict.cc options, turn of *Highlight lines on mouse contact*
 
-### After
+### After - Light Theme
 
 ![dict.cc after](https://i.postimg.cc/q7MtBKxJ/2021-12-16-17-04-57-Window.png)
+
+### After - Dark Theme
+![dict.cc after](https://i.postimg.cc/4NqmxJgH/2021-12-16-23-50-26-Window.png)
 
 ### Before
 
