@@ -20,7 +20,7 @@ from dict.cc options, turn of *Highlight lines on mouse contact*
 
 ### After
 
-![dict.cc after](https://i.postimg.cc/d3Twtsft/2021-12-16-17-04-57-Window.png)
+![dict.cc after](https://i.postimg.cc/q7MtBKxJ/2021-12-16-17-04-57-Window.png)
 
 ### Before
 
