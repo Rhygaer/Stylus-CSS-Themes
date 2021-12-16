@@ -1,4 +1,5 @@
 # to change language of repo from Javascript to Python
-    *.c++ linguist-language=CSS
+    *.c++ linguist-language=css
     *.css linguist-detectable=true
+    *.c++ linguist-detectable=false
    
