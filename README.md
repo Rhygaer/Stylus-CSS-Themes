@@ -10,10 +10,12 @@ CSS Themes for Various Websites for Stylus Extension
 
 ## dict.cc
 **Changes**
+- 
 - Remove top bars, side bars
 - Convert to Flex, now propbably centered resizable
-- Better theme
+- Better theme, both light & dark!
 - Spaces, paddings and margins are bit relaxed now
+- improved icons
 
 **Note**
 from dict.cc options, turn of *Highlight lines on mouse contact*
