@@ -7,3 +7,13 @@ CSS Themes for Various Websites for Stylus Extension
 - Add a style in the extension for the domain
 - Copy & Paste the needed style in the extetnsion page
 - Save
+
+## dict.cc
+**Changes**
+- Remove top bars, side bars
+- Convert to Flex, now propbably centered resizable
+- Better theme
+- Spaces, paddings and margins are bit relaxed now
+
+
+![dict](https://i.postimg.cc/DwLwbw1w/2021-12-16-13-20-46.png)
