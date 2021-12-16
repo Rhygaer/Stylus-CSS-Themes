@@ -15,7 +15,7 @@ CSS Themes for Various Websites for Stylus Extension
 - Better theme
 - Spaces, paddings and margins are bit relaxed now
 
-** Note **
+**Note**
 from dict.cc options, turn of *Highlight lines on mouse contact*
 
 ** After **
