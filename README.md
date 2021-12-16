@@ -16,4 +16,5 @@ CSS Themes for Various Websites for Stylus Extension
 - Spaces, paddings and margins are bit relaxed now
 
 
-![dict](https://i.postimg.cc/DwLwbw1w/2021-12-16-13-20-46.png)
+![dict.cc after](![image](https://user-images.githubusercontent.com/96240509/146374845-0fd48a09-5ac8-4fcc-a6a2-4129fd4704b7.png))4
+![dict.cc after](![image](https://user-images.githubusercontent.com/96240509/146374845-0fd48a09-5ac8-4fcc-a6a2-4129fd4704b7.png))
