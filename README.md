@@ -12,7 +12,7 @@ CSS Themes for Various Websites for Stylus Extension
 **Changes**
 - 
 - Remove top bars, side bars
-- Convert to Flex, now propbably centered resizable
+- Convert to Flex, responsive
 - Better theme, both light & dark!
 - Spaces, paddings and margins are bit relaxed now
 - improved icons
